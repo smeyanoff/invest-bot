@@ -1,5 +1,5 @@
 # invest-bot
-Writing investing bot using Tinkiff InvestAPI and Neural Networks
+Writing investing bot using Tinkoff InvestAPI and Neural Networks
 
 # Description
 I'm trying to develop a trading bot using Tinkoff InvestAPI and Neural Networks.
